@@ -1,6 +1,6 @@
 package com.lab2;
 
-// my code
+// my code my
 import java.util.Scanner;
 
 import com.main.ManagerException;
